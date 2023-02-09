@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;700&family=Unbounded:wght@200;400;500&display=swap');
+
+
+* {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Unbounded', cursive;
+}
+
+nav {
+    border: solid;
+    border-color: red;
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+}
+
+.metrolics-header {
+    border: solid;
+    border-color: black;
+    height: 130px;
+    width: 70%; 
+}
+
+.metrolics-header href{
+    float: right;
+}
+.nav-items {
+    border: solid;
+    border-color: aqua;
+    height: 120px;
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-button1 {
+    border: solid;
+    border-color: green;
+    width: 10%;
+    height: 115px;
+}
+
+.nav-button2 {
+    border: solid;
+    border-color: orange;
+    width: 10%;
+    height: 115px;
+}
+
+.nav-button3 {
+    border: solid;
+    border-color: red;
+    width: 10%;
+    height: 115px;
+}
+
+.nav-button4 {
+    border: solid;
+    border-color: lightblue;
+    width: 10%;
+    height: 115px;
+}
+
+.nav-button5 {
+    border: solid;
+    border-color: darkblue;
+    width: 10%;
+    height: 115px;
+}
+
+.image-slider {
+    border: solid;
+    border-color: darkgray;
+    width: 150%;
+    height: 550px;
+    display: flex;
+    flex-direction: row;
+}
+
+.slider-image1 {
+    border: solid;
+    border-color: aqua;
+    height: 550px;
+    width: 995px;
+
+}
+
+.grid 
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    border: solid;
+    border-color: purple;
+    height: 800px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.services {
+    display: flex;
+    flex-direction: row;
+    border: solid;
+    border-color: palevioletred;
+    min-height: 20rem;
+
+}
+
+.web-service {
+    display: block;
+    border: solid;
+    border-color: aqua;
+    align-items: center;
+    height: 40%;
+    width: 13%;
+    margin-left: 9%;
+    margin-top: 4%;
+
+
+}
